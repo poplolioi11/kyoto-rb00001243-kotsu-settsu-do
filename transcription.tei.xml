@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -176,8 +176,12 @@
               <seg type="diplomatic-text" rend="red">富士川游寄贈</seg>
             </ab>
             <ab type="page-feature" subtype="seal" corresp="#f04-l-c09">
-              <label>欄外五視印</label>
-              <seg type="diplomatic-text" rend="unknown">□</seg>
+              <label>欄外長方朱印與右側寄贈印相對之大印</label>
+              <seg type="diplomatic-text" rend="red">□</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal">
+              <label>欄外左上橢圓黑印</label>
+              <seg type="diplomatic-text" rend="black">186177　大正7.3.31</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -204,7 +208,7 @@
               <seg type="diplomatic-text">甚徑庭亦可以證矣而讀者不察以切痛為</seg>
             </ab>
             <ab type="column" n="5" xml:id="f05-r-c05">
-              <seg type="diplomatic-text">如刃切之義陋已蓋以切與絞強而分之則</seg>
+              <seg type="diplomatic-text">如刀切之義陋已蓋以切與絞彊而分之則</seg>
             </ab>
             <ab type="column" n="6" xml:id="f05-r-c06">
               <seg type="diplomatic-text">稱絞痛之尤劇者謂之切則或有之斷非裁</seg>
@@ -279,7 +283,7 @@
               <seg type="diplomatic-text">林億等挍正之時猶未數十年則宋臣挍正</seg>
             </ab>
             <ab type="column" n="6" xml:id="f06-r-c06">
-              <seg type="diplomatic-text">舊本無陽字從可見已逮金成無己據玉函</seg>
+              <seg type="diplomatic-text">舊本無陽字從可見已逮金成無已據玉函</seg>
             </ab>
             <ab type="column" n="7" xml:id="f06-r-c07">
               <seg type="diplomatic-text">經作陰陽易之為病明萬曆中趙開美刻仲</seg>
@@ -320,6 +324,12 @@
               <quote>挍刻</quote>
               <note type="editorial">第3欄的小字註與大字分錄。兩個「挍正」與「挍刻」保留所見扌旁，待核。</note>
             </ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>無已</quote>
+              <seg type="candidate">無已</seg>
+              <seg type="candidate">無己</seg>
+              <note type="editorial">原圖留讀及異讀候選。</note>
+            </ab>
           </div>
         </div>
         <pb n="7" facs="#f07" />
@@ -327,11 +337,11 @@
           <div type="page-face" n="right">
             <ab type="page-feature" subtype="printed-small-text">
               <label>框內朱筆第1欄</label>
-              <seg type="diplomatic-text" rend="unknown">此書先生叢著之一辛酉穀月先生侍于</seg>
+              <seg type="diplomatic-text" rend="red">此書先生新著之一辛酉□月先生侍于</seg>
             </ab>
             <ab type="page-feature" subtype="printed-small-text">
               <label>框內朱筆第2欄</label>
-              <seg type="diplomatic-text" rend="unknown">皇駕自洛還謝余勞賜此書追詩并小</seg>
+              <seg type="diplomatic-text" rend="red">皇駕自洛還謝余勞賜此卷追請□小</seg>
             </ab>
             <ab type="page-feature" subtype="printed-small-text">
               <label>框內朱筆第3欄</label>

@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001243/manifest.json",
     "manifest_sha256": "f898a1beccbd79f19df7e944aaf4f1e3a5a8bd9e6912d3b0aeaa32f9d2b8abc0",
     "record_id": "RB00001243",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "㽲痛切痛同附陰陽易病辨誤（1851、1849 年篇末署記，京都大學 テ/7） / Kōtsū settsū dō, with In’yō ekibyō bengo [Abdominal-pain terminology and textual notes]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -198,7 +198,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-philological-treatises",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -246,10 +246,17 @@
             },
             {
               "type": "seal",
-              "location": "欄外五視印",
+              "location": "欄外長方朱印與右側寄贈印相對之大印",
               "text": "□",
               "column_anchor": 9,
-              "color": "unknown"
+              "color": "red"
+            },
+            {
+              "type": "seal",
+              "location": "欄外左上橢圓黑印",
+              "text": "186177　大正7.3.31",
+              "column_anchor": null,
+              "color": "black"
             }
           ]
         }
@@ -280,7 +287,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-philological-treatises",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -298,7 +305,7 @@
               "text": "甚徑庭亦可以證矣而讀者不察以切痛為"
             },
             {
-              "text": "如刃切之義陋已蓋以切與絞強而分之則"
+              "text": "如刀切之義陋已蓋以切與絞彊而分之則"
             },
             {
               "text": "稱絞痛之尤劇者謂之切則或有之斷非裁"
@@ -383,7 +390,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-philological-treatises",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -404,7 +411,7 @@
               "text": "林億等挍正之時猶未數十年則宋臣挍正"
             },
             {
-              "text": "舊本無陽字從可見已逮金成無己據玉函"
+              "text": "舊本無陽字從可見已逮金成無已據玉函"
             },
             {
               "text": "經作陰陽易之為病明萬曆中趙開美刻仲"
@@ -467,6 +474,16 @@
           "context": "挍刻",
           "candidates": [],
           "note": "第3欄的小字註與大字分錄。兩個「挍正」與「挍刻」保留所見扌旁，待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "無已",
+          "candidates": [
+            "無已",
+            "無己"
+          ],
+          "note": "原圖留讀及異讀候選。"
         }
       ],
       "observations": "右面：第3欄的小字註與大字分錄。兩個「挍正」與「挍刻」保留所見扌旁，待核。 左面：此面為附篇末。紀年與署撰同在一欄。位次為舊文刊刻論辨，與主篇辛亥署期分列。"
@@ -486,7 +503,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "vermilion-inscription",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -495,16 +512,16 @@
             {
               "type": "printed-small-text",
               "location": "框內朱筆第1欄",
-              "text": "此書先生叢著之一辛酉穀月先生侍于",
+              "text": "此書先生新著之一辛酉□月先生侍于",
               "column_anchor": null,
-              "color": "unknown"
+              "color": "red"
             },
             {
               "type": "printed-small-text",
               "location": "框內朱筆第2欄",
-              "text": "皇駕自洛還謝余勞賜此書追詩并小",
+              "text": "皇駕自洛還謝余勞賜此卷追請□小",
               "column_anchor": null,
-              "color": "unknown"
+              "color": "red"
             },
             {
               "type": "printed-small-text",

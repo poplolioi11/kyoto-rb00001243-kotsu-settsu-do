@@ -4,11 +4,11 @@
 
 Kōtsū settsū dō and the appended In’yō ekibyō bengo are two Literary Chinese philological essays by Taki Genkitsu. The first compares historical expressions for abdominal pain. The second compares the wording of disease names across medical witnesses, including editions of the Shanghan lun. The essays bear internal dates corresponding to 1851 and 1849. This Fujikawa Collection copy also contains a vermilion inscription.
 
-## V0.1.0
+## V0.2.0
 
-8 幅全部編目。兩篇刊文、欄末署年、雙行小注及卷末朱筆分層轉錄。印記和少數朱字留疑。本版為 AI 輔助初錄。形近難字與朱筆疑讀留定位。
+8 幅全部編目。兩篇刊文、欄末署年、雙行小注及卷末朱筆分層轉錄。印記和少數朱字留疑。比對未見初稿的本機 OCR 候選後，回圖裁定採用 7 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All eight scans are indexed. The essays, authorial dates, double-column printed note and vermilion inscription are recorded separately. Some seals and handwritten readings remain uncertain. AI-assisted initial reading with uncertain graphs and vermilion readings referenced to the source.
+All eight scans are indexed. The essays, authorial dates, double-column printed note and vermilion inscription are recorded separately. Some seals and handwritten readings remain uncertain. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 7 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

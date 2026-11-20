@@ -1,10 +1,9 @@
 cff-version: 1.2.0
-message: If you use this transcription, please cite the dataset version and the source
-  copy.
+message: If you use this dataset, please cite this version and the source copy.
 title: '㽲痛切痛同附陰陽易病辨誤（1851、1849 年篇末署記，京都大學 テ/7） / Kōtsū settsū dō, with In’yō ekibyō
   bengo [Abdominal-pain terminology and textual notes]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
