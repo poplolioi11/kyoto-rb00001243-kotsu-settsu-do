@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>㽲痛切痛同附陰陽易病辨誤</title>
+        <title type="alternate">Kōtsū settsū dō, with In’yō ekibyō bengo</title>
+        <author>多紀元佶（丹波元佶，棠邊，1825–1863）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>日本京都（現藏）</settlement>
+            <repository>京都大學附屬圖書館</repository>
+            <collection>富士川文庫</collection>
+            <idno>テ/7</idno>
+            <altIdentifier>
+              <idno>RB00001243</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>多紀元佶二篇漢文醫籍考證。首篇按群書辨㽲痛、切痛與絞痛，附篇對校《傷寒論》陰陽易病名的不同版本。原圖同函尚有一面朱筆後題。</p>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/item/rb00001243">館方書目</ref>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001243/manifest.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>主篇署辛亥五月二日（1851），附篇署己酉夏六月（1849）。本冊刊年未詳。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p1" xml:id="f01">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00001_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p2" xml:id="f02">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00002_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p3" xml:id="f03">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00003_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="4" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p4" xml:id="f04">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00004_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p5" xml:id="f05">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00005_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p6" xml:id="f06">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00006_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="7" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p7" xml:id="f07">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00007_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="8" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p8" xml:id="f08">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001243%2FRB00001243_00008_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>函前題簽</label>
+              <seg type="diplomatic-text" rend="unknown">㽲痛切痛同説</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：函面側拍，色卡與尺不轉錄。</ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>函左題簽</label>
+              <seg type="diplomatic-text" rend="unknown">㽲痛切痛同説</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>函脊窄簽</label>
+              <seg type="diplomatic-text" rend="unknown">㽲痛切痛同説□</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>館籤</label>
+              <seg type="diplomatic-text" rend="unknown">富士川本／テ／7</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：合函攤開，函脊題簽磨損。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>函脊窄簽</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>前封右大字</label>
+              <seg type="diplomatic-text" rend="unknown">棠邊先生</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>前封中題</label>
+              <seg type="diplomatic-text" rend="unknown">㽲痛切痛同説</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>前封左題</label>
+              <seg type="diplomatic-text" rend="unknown">陰陽易病辨誤</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>館籤</label>
+              <seg type="diplomatic-text" rend="unknown">富士川本／テ／7</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：封面二題逐列；第二題「辨」手寫形近辯。</ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="medical-philological-treatises">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">㽲痛切痛同</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">㽲痛字昉見金匱當歸生姜羊肉湯及當歸</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">芍藥散條切痛字見附子粳米湯條㽲字説</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">文不載按㽲者㽱之俗體説文云㽱腹中急</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">痛也集韻音絞千金外臺倶引㽲作絞此則</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">㽲痛卽絞痛絞之義為急故論語直而無禮</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">則絞鄭玄云絞急也切亦訓急氣交變大論</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">其政勁切王注切急也左傳昭公元年叔孫</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-l-c09">
+              <seg type="diplomatic-text">絞而婉杜注絞切也廣韻切迫也毛晃增注</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f04-l-c09">
+              <label>右側長方朱印</label>
+              <seg type="diplomatic-text" rend="red">富士川游寄贈</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f04-l-c09">
+              <label>欄外五視印</label>
+              <seg type="diplomatic-text" rend="unknown">□</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：空白襯頁，未見當面文字。 左面：內題無「説」字，與函題分記。訓讀符未見密列。㽲、㽱字形另候㽲／㽱，仍依所示病字頭內形區分。</ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>欄外五視印</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="medical-philological-treatises">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">禮部韻畧切迫也急也據此曰切痛曰絞痛</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">倶是腹中緊急切迫而痛之状是以千金外</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">臺婦人門中所載曰切曰絞互相出入而無</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">甚徑庭亦可以證矣而讀者不察以切痛為</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">如刃切之義陋已蓋以切與絞強而分之則</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">稱絞痛之尤劇者謂之切則或有之斷非裁</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">切之義但從來注家一言未有及此者爰録</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-r-c08">
+              <seg type="diplomatic-text">淺見所及以俟識者</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-r-c09">
+              <seg type="diplomatic-text">辛亥五月二日　丹波元佶稿</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c09">
+              <label>版心葉次</label>
+              <seg type="diplomatic-text" rend="unknown">二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">陰陽易病辨誤</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">陰陽易者總揭男女之稱也陰易陽易者辨</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">別男女之稱也病源云傷寒陰陽易病者是</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">男子婦人傷寒病新差未平復而與之交接</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">得病者名為陰陽易也其男子病新差未平</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">復而婦人與之交接得病者名陰易二證之</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">別判然可見矣甞閱明趙開美校刻宋板傷</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08">
+              <seg type="diplomatic-text">寒論陰陽易之為病條陰字下分注陽易二</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-l-c09">
+              <seg type="diplomatic-text">字而其證則重在男子陰易矣余每疑之攷</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-l-c09">
+              <label>版心葉次</label>
+              <seg type="diplomatic-text" rend="unknown">一</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右葉為主篇末，末欄上書紀日、下書署稿。上部字形畧／略、状／狀依所見。 左面：左面另起附篇，版心葉次重置。本文為古籍病名與版本辨析，保留原分欄。</ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="medical-philological-treatises">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">千金方及翼方引此條作陰易之病醫心方</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">引葛氏方亦稱陰易病宋無求子及南陽活</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">人書陳無擇三因方引經文並作陰</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">易之為病朱肱無擇輩皆治平以後之人去</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">林億等挍正之時猶未數十年則宋臣挍正</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06">
+              <seg type="diplomatic-text">舊本無陽字從可見已逮金成無己據玉函</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07">
+              <seg type="diplomatic-text">經作陰陽易之為病明萬曆中趙開美刻仲</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-r-c08">
+              <seg type="diplomatic-text">景全書後挍刻宋板亦從成氏本始補以陽</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-r-c09">
+              <seg type="diplomatic-text">字以其無空位故細書補填之而已後人因</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f06-r-c09">
+              <label>右面第3欄「人書」下雙行小註</label>
+              <seg type="diplomatic-text" rend="unknown">醫方類／聚引</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c09">
+              <label>版心葉次</label>
+              <seg type="diplomatic-text" rend="unknown">二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">循莫之能悟長沙舊文遂屬隱晦可嘆也已</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">爰為之辨如右</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">己酉夏六月　棠邊丹波元佶撰</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第3欄的小字註與大字分錄。兩個「挍正」與「挍刻」保留所見扌旁，待核。 左面：此面為附篇末。紀年與署撰同在一欄。位次為舊文刊刻論辨，與主篇辛亥署期分列。</ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>挍正</quote>
+              <note type="editorial">第3欄的小字註與大字分錄。兩個「挍正」與「挍刻」保留所見扌旁，待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>挍刻</quote>
+              <note type="editorial">第3欄的小字註與大字分錄。兩個「挍正」與「挍刻」保留所見扌旁，待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="vermilion-inscription">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>框內朱筆第1欄</label>
+              <seg type="diplomatic-text" rend="unknown">此書先生叢著之一辛酉穀月先生侍于</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>框內朱筆第2欄</label>
+              <seg type="diplomatic-text" rend="unknown">皇駕自洛還謝余勞賜此書追詩并小</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>框內朱筆第3欄</label>
+              <seg type="diplomatic-text" rend="unknown">不二枝布之三物□□□而可以永矣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>框內朱筆第4欄</label>
+              <seg type="diplomatic-text" rend="unknown">先生告云</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal">
+              <label>框內朱印兩枚</label>
+              <seg type="diplomatic-text" rend="red">□□</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：後加朱筆另層。第1欄月前字形候穀，第三欄中段暫留未定。第4欄可辨末端不排除省筆。 左面：主要是朱筆反向透字。下緣有少量墨筆，字形及是否為館記未定。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>框內朱筆第3欄</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>框內朱印兩枚</quote>
+              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote />
+              <note type="editorial">後加朱筆另層。第1欄月前字形候穀，第三欄中段暫留未定。第4欄可辨末端不排除省筆。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">主要是朱筆反向透字。下緣有少量墨筆，字形及是否為館記未定。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：原冊後封，未見當面文字。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

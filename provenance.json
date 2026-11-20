@@ -1,0 +1,101 @@
+{
+  "historical_author": "多紀元佶（丹波元佶、棠邊）",
+  "source_identity": "京都大學附屬圖書館富士川文庫 テ/7，RB00001243",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001243",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001243/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 8,
+  "content_scan_count": 4,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "3d33316ece4687ecbfef6cddb9b45282e93b4987c1fd8d6c8af06ed453275908",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "574769ab052113e0a41aa10cc2b52b38fa6a77ccd1cf274e2b8017761307c28d",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "87f91dae8041adb74a3ab4fa0477cfad47e7e6b4fe57155bed5a0c0113636b99",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "74f4efbc8c8891e5c477610bd6b4a27b3e3d58ac88b8a1e03e6489f8e4ef3ae1",
+      "content_role": "medical-philological-treatises"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "0d883fef422ae56f4b8dcd27ebe517156fdf999689eb386d82ce7fa5a21b8621",
+      "content_role": "medical-philological-treatises"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "43c1f0ecc2c451e8ea31c82d9799163ced7ec9d8b0613d4866a429f1a1612542",
+      "content_role": "medical-philological-treatises"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "bb50ce9b58060d5c9894caae6863590d8b178f876b3b4b0a69c87584af8f3f37",
+      "content_role": "vermilion-inscription"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001243/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "38af917ca8b268baea6fc0e5067a29ff71dc46730f3d2c973f997fae36dd17c5",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}
